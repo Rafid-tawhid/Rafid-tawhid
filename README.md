@@ -8,7 +8,6 @@ Skills: Flutter / Dart / Kotlin / Java / Firebase / Rest Api / Planning
 - 🔭 I’m currently working on bitbirds Solutions 
 - 🌱 I’m currently learning Rest Api / Spring boot 
 - 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Anyone  
 - 💬 Ask me about Flutter problems 
 - ⚡ Fun fact: Life is fun :/  
 
