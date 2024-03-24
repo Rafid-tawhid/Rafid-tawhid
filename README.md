@@ -5,7 +5,7 @@ I am Passionate to explore the latest technologies and software. Love to create 
 
 Skills: Flutter / Dart / Kotlin / Java / Firebase / Rest Api / Planning 
 
-- 🔭 I’m currently working on bitbirds Solutions 
+- 🔭 I’m currently working on WEMPRO
 - 🌱 I’m currently learning Rest Api / Spring boot 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Flutter problems 
