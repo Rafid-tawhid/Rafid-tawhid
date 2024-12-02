@@ -49,7 +49,7 @@ I'm eager to contribute to open-source projects and collaborate on exciting idea
   <a href="https://www.facebook.com/RAFI5D" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://gitconnected.com/rafid-tawhid" target="_blank">
+  <a href="https://rafid-tawhid.github.io/my-dev-profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio">
   </a>
 </p>
