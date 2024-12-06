@@ -52,9 +52,10 @@ I'm eager to contribute to open-source projects and collaborate on exciting idea
   <a href="https://rafid-tawhid.github.io/my-dev-profile/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://rafid-tawhid.github.io/personal-website/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website">
-  </a>
+ <a href="https://rafid-tawhid.github.io/personal-website/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="Website">
+</a>
+
 </p>
 
 ---
