@@ -40,21 +40,22 @@ I'm eager to contribute to open-source projects and collaborate on exciting idea
 
 <h3>🔗 Connect With Me</h3>
 <p>
-  <a href="https://github.com/Rafid-tawhid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/tawhidur-rahman-rafid-5a6b75175/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/RAFI5D" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://rafid-tawhid.github.io/my-dev-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio">
-  </a>
- <a href="https://rafid-tawhid.github.io/personal-website/" target="_blank">
+<a href="https://github.com/rafid-tawhid" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/tawhidur-rahman-rafid-5a6b75175/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/RAFI5D" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://rafid-tawhid.github.io/my-dev-profile/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://rafid-tawhid.github.io/personal-website/" target="_blank">
   <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="Website">
 </a>
+
 
 </p>
 
