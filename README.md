@@ -1,44 +1,62 @@
-<h1 align="center">🌟 Hello, World! 🌟</h1>
-<h2 align="center">👋 Hi, I'm <strong>Tawhidur Rahman Rafid</strong></h2>
-<h3 align="center">🚀 Mobile Application Developer</h3>
+# 🌟 Hello, World! 🌟
+
+## 👋 Hi, I'm **Tawhidur Rahman Rafid**
+### 🚀 Mobile Application Developer & ERP Solutions Specialist
 
 <p align="center">
 I am passionate about exploring the latest technologies and creating seamless mobile applications with <strong>Flutter</strong>. 
-I thrive on solving problems and constantly strive to learn and grow. A resilient soldier, ready to tackle challenges head-on! 💪
+Currently developing enterprise solutions in the garment industry while expanding my backend development skills. 
+I thrive on solving complex problems and constantly strive to learn and grow. A resilient soldier, ready to tackle challenges head-on! 💪
 </p>
 
 ---
 
-<h3>🛠️ Skills & Expertise</h3>
-<ul>
-  <li><strong>Languages & Frameworks:</strong> Flutter, Dart, Kotlin, Java</li>
-  <li><strong>Tools & Technologies:</strong> Firebase, REST API, Planning & Architecture</li>
-  <li><strong>Backend Knowledge:</strong> Spring Boot, Node.js (learning in progress)</li>
-</ul>
+## 🏢 Current Role
+**Mobile Application Developer** at **Yunusco BD Ltd** (Garments Industry, Narayangonj)
+- Developing ERP and industry-specific mobile solutions
+- Creating efficient production and management tools
+- Implementing digital transformation in traditional manufacturing
 
 ---
 
-<h3>🌱 Currently Working On</h3>
-<ul>
-  <li>Crafting amazing experiences at <strong>WEMPRO LLC</strong></li>
-  <li>Expanding my backend development skills with <strong>REST APIs</strong>, <strong>Spring Boot</strong>, and <strong>Node.js</strong></li>
-</ul>
+## 🛠️ Skills & Expertise
+- **Mobile Development:** Flutter, Dart, Kotlin, Java
+- **Frontend Technologies:** React, HTML5, CSS3, JavaScript
+- **Backend Development:** Spring Boot, Node.js, Express.js
+- **Database Management:** Firebase, MySQL, MongoDB, Hive
+- **API Integration:** REST APIs, GraphQL, Dio, Retrofit
+- **State Management:** Provider, Bloc, Riverpod, GetX
+- **DevOps & Tools:** Git, Docker, CI/CD, Postman, JIRA
+- **Cloud Services:** AWS, Google Cloud Platform, Firebase Services
+- **ERP Systems:** Industry-specific solution development
 
 ---
 
-<h3>🤝 Let's Collaborate!</h3>
-<p>
-I'm eager to contribute to open-source projects and collaborate on exciting ideas. Feel free to ask me anything about <strong>Flutter</strong>—let's solve problems together!
-</p>
+## 🌱 Currently Working On
+- Developing mobile ERP solutions for garment manufacturing at **Yunusco BD Ltd**
+- Expanding backend development expertise with **Spring Boot** and **Node.js**
+- Learning **cloud infrastructure** and **microservices architecture**
+- Exploring **AI/ML integration** in mobile applications
 
 ---
 
-<h3>⚡ Fun Fact</h3>
-<p><em>Life is like coding: it's full of bugs, but debugging makes it fun! 😄</em></p>
+## 🤝 Let's Collaborate!
+I'm eager to contribute to open-source projects and collaborate on innovative ideas, particularly in:
+- Enterprise mobile solutions
+- Flutter package development
+- Industry 4.0 digital transformation projects
+- Cross-platform development challenges
+
+Feel free to ask me anything about **Flutter** or **mobile ERP development**—let's solve problems together!
 
 ---
 
-<h3>🔗 Connect With Me</h3>
+## ⚡ Fun Fact
+<em>Life is like coding: it's full of bugs, but debugging makes it fun! When I'm not fixing code, I'm probably thinking about how to make garment production more efficient through technology. 😄</em>
+
+---
+
+## 🔗 Connect With Me
 <p>
 <a href="https://github.com/rafid-tawhid" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -55,13 +73,12 @@ I'm eager to contribute to open-source projects and collaborate on exciting idea
 <a href="https://rafid-tawhid.github.io/personal-website/" target="_blank">
   <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="Website">
 </a>
-
-
 </p>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafid-tawhid&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafid-tawhid&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafid-tawhid&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
 </p>
