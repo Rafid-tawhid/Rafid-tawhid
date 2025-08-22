@@ -37,12 +37,12 @@ I thrive on solving complex problems and constantly strive to learn and grow. A 
 
 ## 🛠️ Skills & Expertise
 - **Mobile Development:** Flutter, Dart, Kotlin, Java
-- **Frontend Technologies:** React, HTML5, CSS3, JavaScript
-- **Backend Development:** Spring Boot, Node.js, Express.js
+- **Frontend Technologies:** HTML5, CSS3, JavaScript
+- **Backend Development:**  Node.js, Python
 - **Database Management:** Firebase, MySQL, MongoDB, Hive
-- **API Integration:** REST APIs, GraphQL, Dio, Retrofit
-- **State Management:** Provider, Bloc, Riverpod, GetX
-- **DevOps & Tools:** Git, Docker, CI/CD, Postman, JIRA
+- **API Integration:** REST APIs,Dio, Retrofit
+- **State Management:** Provider, Riverpod, GetX
+- **DevOps & Tools:** Git, Docker, CI/CD, Postman
 - **Cloud Services:** AWS, Google Cloud Platform, Firebase Services
 - **ERP Systems:** Industry-specific solution development
 - **Leadership:** Team Management, Project Architecture, Mentoring
