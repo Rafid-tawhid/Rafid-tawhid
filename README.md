@@ -11,11 +11,27 @@ I thrive on solving complex problems and constantly strive to learn and grow. A 
 
 ---
 
-## 🏢 Current Role
-**Mobile Application Developer** at **Yunusco BD Ltd** (Garments Industry, Narayangonj)
+## 💼 Professional Experience
+
+**Mobile Application Developer** at **Yunusco BD Ltd** (Garments Industry, Narayangonj) | *Current*
 - Developing ERP and industry-specific mobile solutions
 - Creating efficient production and management tools
 - Implementing digital transformation in traditional manufacturing
+
+**Lead Mobile App Developer** at **Wempro LLC** 
+- Led mobile development team in creating cross-platform applications
+- Architected scalable mobile solutions for diverse client needs
+- Implemented CI/CD pipelines for efficient development workflows
+
+**Mobile App Developer** at **Bitbirds Solution**
+- Developed and maintained multiple Flutter applications
+- Collaborated with designers to create intuitive user interfaces
+- Integrated various APIs and third-party services
+
+**SEIP Trainer** at **Pencilbox Training Institute**
+- Trained aspiring developers in mobile application development
+- Created curriculum and learning materials for Flutter/Dart
+- Mentored students through hands-on projects and real-world applications
 
 ---
 
@@ -29,6 +45,7 @@ I thrive on solving complex problems and constantly strive to learn and grow. A 
 - **DevOps & Tools:** Git, Docker, CI/CD, Postman, JIRA
 - **Cloud Services:** AWS, Google Cloud Platform, Firebase Services
 - **ERP Systems:** Industry-specific solution development
+- **Leadership:** Team Management, Project Architecture, Mentoring
 
 ---
 
