@@ -6,7 +6,7 @@
 <p align="center">
 I am passionate about exploring the latest technologies and creating seamless mobile applications with <strong>Flutter</strong>. 
 Currently developing enterprise solutions in the garment industry while expanding my backend development skills. 
-I thrive on solving complex problems and constantly strive to learn and grow. A resilient soldier, ready to tackle challenges head-on! 💪
+I thrive on solving complex problems and constantly strive to learn and grow. A resilient soldier, ready to tackle challenges head-on..! 💪
 </p>
 
 ---
